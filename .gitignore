@@ -1,0 +1,42 @@
+Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Virtual Environment
+
+venv/
+env/
+.venv/
+
+Jupyter Notebook
+
+.ipynb_checkpoints/
+
+Dataset
+
+dataset/
+
+Models
+
+models/.h5
+models/.pkl
+
+VS Code
+
+.vscode/
+
+PyCharm
+
+.idea/
+
+Operating System Files
+
+.DS_Store
+Thumbs.db
+
+Logs
+
+*.log
